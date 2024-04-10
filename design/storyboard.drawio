@@ -13,8 +13,8 @@
                 <mxCell id="17" value="Calculate" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="7">
                     <mxGeometry x="70" y="240" width="80" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="18" value="212&lt;sup&gt;o&amp;nbsp;&lt;/sup&gt;fahrenheit in celcius is 100&lt;sup&gt;o&lt;/sup&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="7">
-                    <mxGeometry x="20" y="285" width="240" height="40" as="geometry"/>
+                <mxCell id="18" value="212&lt;sup&gt;o&amp;nbsp;&lt;/sup&gt;fahrenheit in celsius is 100&lt;sup&gt;o&lt;/sup&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="7">
+                    <mxGeometry x="30" y="290" width="240" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="8" value="212" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
                     <mxGeometry x="62.5" y="235" width="85" height="15" as="geometry"/>
