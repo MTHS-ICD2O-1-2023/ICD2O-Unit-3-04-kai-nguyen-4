@@ -1,11 +1,26 @@
 <mxfile host="65bd71144e">
     <diagram id="HIP3nbAZw_EuaXWnEj3U" name="Page-1">
-        <mxGraphModel dx="399" dy="236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1086" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="7" value="http://ics2o.mths.ca" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="40" y="40" width="760" height="480" as="geometry"/>
+                <mxCell id="7" value="http://ics2o.mths.ca" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry y="30" width="760" height="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="&lt;h1&gt;Fahrenheit to Celsius conversion&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="7">
+                    <mxGeometry x="10" y="60" width="500" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Calculate" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="7">
+                    <mxGeometry x="70" y="240" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="212&lt;sup&gt;o&amp;nbsp;&lt;/sup&gt;fahrenheit in celcius is 100&lt;sup&gt;o&lt;/sup&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="7">
+                    <mxGeometry x="20" y="285" width="240" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="212" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="62.5" y="235" width="85" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="F:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="22.5" y="225" width="40" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
